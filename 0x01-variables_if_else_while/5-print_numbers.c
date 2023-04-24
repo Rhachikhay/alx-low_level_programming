@@ -7,9 +7,9 @@
  */
 int main(void)
 {
-int r;
+int i;
 
-if (r = 0; r < 10; r++)
+for (i = 0; i < 10; i++)
 {
 printf("%d", r);
 }
