@@ -13,6 +13,5 @@ for (rh = 'A'; rh <= 'Z'; rh++)
 putchar(rh);
 
 putchar('\n');
-	
 return (0);
-}	
+}
