@@ -7,12 +7,12 @@
  */
 int main(void)
 {
-	int r;
+int r;
 
-	if (r = 0; r < 10; r++)
-	{
-		printf("%d", r);
-	}
-	putchar("\n");
-	return (0);
+if (r = 0; r < 10; r++)
+{
+printf("%d", r);
+}
+putchar("\n");
+return (0);
 }
