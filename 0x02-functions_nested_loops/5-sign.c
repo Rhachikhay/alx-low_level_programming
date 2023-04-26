@@ -20,6 +20,6 @@ int print_sign(int r)
 	else
 	{
 		_putchar('-');
-		return ('-');
+		return (-1);
 	}
 }
